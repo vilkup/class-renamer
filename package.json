@@ -1,0 +1,29 @@
+{
+  "name": "class-renamer",
+  "version": "1.0.0",
+  "description": "Small library for renaming classes in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilkup/class-renamer.git"
+  },
+  "keywords": [
+    "class",
+    "rename",
+    "meta",
+    "metaprogramming"
+  ],
+  "author": "Vilen Kupriienko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vilkup/class-renamer/issues"
+  },
+  "homepage": "https://github.com/vilkup/class-renamer#readme",
+  "dependencies": {
+    "@metarhia/common": "^2.2.0",
+    "lodash": "^4.17.21"
+  }
+}
