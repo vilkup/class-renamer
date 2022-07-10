@@ -1,6 +1,6 @@
 {
   "name": "class-renamer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small library for renaming classes in JavaScript",
   "main": "index.js",
   "scripts": {
