@@ -3,7 +3,7 @@ Small library for renaming classes in JavaScript.
 Very handy for class factories
 
 ## Usage
-```
+```js
 const createSwaggerException = (name, options) => {
   class SwaggerException {
     constructor({ message, reason, extra }) {
