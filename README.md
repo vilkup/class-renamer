@@ -4,6 +4,8 @@ Very handy for class factories
 
 ## Usage
 ```js
+const { renameClass } = require('class-renamer');
+
 const createSwaggerException = (name, options) => {
   class SwaggerException {
     constructor({ message, reason, extra }) {
